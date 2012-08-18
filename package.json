@@ -7,7 +7,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "superagent": "git://github.com/mathrawka/superagent.git",
+    "superagent": "https://github.com/mathrawka/superagent.git#master",
     "methods": "0.0.1"
   },
   "devDependencies": {
